@@ -43,4 +43,4 @@ Topics:
 * [Code Sandbox from Lecture](https://codesandbox.io/s/n58oqgwmP)
 * [React Router 4 Quick Start Guide](https://reacttraining.com/react-router/web/guides/quick-start)
 
-Pere
+Pere Sola Claver - 12:29 UK time
